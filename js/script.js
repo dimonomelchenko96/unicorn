@@ -1,7 +1,7 @@
 window.addEventListener("DOMContentLoaded", () => {
 
 const parent = document.querySelector('.main__wrapper'),
-      url = '../data.json',
+      url = './data.json',
       popup = document.querySelector('.overlay'),
       trigger = document.querySelector('.popup__close');
 
