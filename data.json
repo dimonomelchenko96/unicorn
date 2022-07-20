@@ -1,0 +1,49 @@
+{
+    "plans": [
+        {
+            "id": 1,
+            "logo": "icon1",
+            "price": 12.48,
+            "type": "Digital",
+            "subtitle": "LTD Company Package",
+            "text": "Bank Accounts with upto £55 Cash Back\nLimited Company Included\nIncorporation filing fee (worth £13)\nFastest Online Filing Submission\nDigital Incorporation Certificate\nDigital Articles of Association\nDigitial Share Certificates\nDigital Company Register\nFree Accountancy Consulation\nHMRC UTR Number",
+            "cashback": 55
+        },
+        {
+            "id": 2,
+            "logo": "icon2",
+            "price": 16.48,
+            "type": "Digital & Print",
+            "subtitle": "LTD Company Package",
+            "text": "+ Printed Certificate of Incorporation\n+ Printed Share Certificates\nBank Accounts with upto £55 Cash Back\nLimited Company Included\nIncorporation filing fee (worth £13)\nFastest Online Filing Submission\nDigital Incorporation Certificate\nDigital Articles of Association\nDigitial Share Certificates\nDigital Company Register\nFree Accountancy Consulation\nHMRC UTR Number",
+            "cashback": 55
+        },
+        {
+            "id": 3,
+            "logo": "icon3",
+            "price": 20.48,
+            "type": "Privacy",
+            "subtitle": "LTD Company Package",
+            "text": "+ Registered Address, London EC1\n+ Directors Address, London EC1\n+ Free .co.uk Domain Name\nPrinted Certificate of Incorporation\nPrinted Share Certificates\nBank Accounts with upto £55 Cash Back\nLimited Company Included\nIncorporation filing fee (worth £13)\nFastest Online Filing Submission\nDigital Incorporation Certificate\nDigital Articles of Association\nDigitial Share Certificates\nDigital Company Register\nFree Accountancy Consulation\nHMRC UTR Number",
+            "cashback": 55
+        },
+        {
+            "id": 4,
+            "logo": "icon4",
+            "price": 24.48,
+            "type": "Fully Inclusive",
+            "subtitle": "LTD Company Package",
+            "text": "+ Confirmation Statement\n+ Trading Address, London EC1\n+ VAT Registration\nRegistered Address, London EC1\nDirectors Address, London EC1\nFree .co.uk Domain Name\nPrinted Certificate of Incorporation\nPrinted Share Certificates\nBank Accounts with upto £55 Cash Back\nLimited Company Included\nIncorporation filing fee (worth £13)\nFastest Online Filing Submission\nDigital Incorporation Certificate\nDigital Articles of Association\nDigitial Share Certificates\nDigital Company Register\nFree Accountancy Consulation\nHMRC UTR Number",
+            "cashback": 55
+        },
+        {
+            "id": 5,
+            "logo": "icon1",
+            "price": 29.48,
+            "type": "Digital",
+            "subtitle": "LTD Company Package",
+            "text": "Confirmation Statement\nTrading Address, London EC1\n+ VAT Registration\nRegistered Address, London EC1\nDirectors Address, London EC1\nFree .co.uk Domain Name\nPrinted Certificate of Incorporation\nPrinted Share Certificates\nBank Accounts with upto £55 Cash Back\nLimited Company Included\nIncorporation filing fee (worth £13)\nFastest Online Filing Submission\nDigital Incorporation Certificate\nDigital Articles of Association\nDigitial Share Certificates\nDigital Company Register\nFree Accountancy Consulation\nHMRC UTR Number",
+            "cashback": 55
+        }
+    ]
+}
